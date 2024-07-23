@@ -1,0 +1,20 @@
+.character-details {
+  text-align: center;
+  padding: 20px;
+}
+
+.character-details img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.character-details h2 {
+  margin-bottom: 20px;
+}
+
+.character-details p {
+  margin: 5px 0;
+  font-size: 18px;
+}

@@ -1,0 +1,29 @@
+.good-students {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.character-card {
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+}
+
+.character-card img {
+  width: 100%;
+  height: auto;
+}
+
+.character-card p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.star-icon {
+  cursor: pointer;
+  color: gold;
+  font-size: 24px;
+  margin-bottom: 10px;
+}

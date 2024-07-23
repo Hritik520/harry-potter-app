@@ -1,0 +1,25 @@
+.house-characters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.character-card {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  width: 150px;
+}
+
+.character-card img {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.character-card p {
+  margin-top: 10px;
+  font-weight: bold;
+}
